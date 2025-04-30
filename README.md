@@ -1,4 +1,4 @@
-# ❤️ Credit Card Fraud Detection with KaggleHub
+# ❤️ Heart Disease Prediction with KaggleHub
 
 This project demonstrates how to use the publicly available Kaggle dataset [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) via `kagglehub` to build a machine learning model and simulate secure healthcare data practices such as encryption.
 
